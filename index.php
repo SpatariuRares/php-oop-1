@@ -24,6 +24,7 @@
     echo $rocky->name.'<br>';
     echo $rocky->year.'<br>';
     $A_New_Hope=new Movie("Episode IV – A New Hope",1977);
+    
     echo $A_New_Hope->name.'<br>';
     echo $A_New_Hope->year.'<br>';
 ?>
